@@ -1,0 +1,253 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Asus/Desktop/CA5
+T_opt
+!s110 1717865433
+V>G<P7OIk9G8VdYGTkK<:j3
+04 14 4 work Divider_Top_tb fast 0
+=1-40a3cc8bba0a-66648bd8-330-2218
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1718005367
+VgZb<KRzjd6^A<D;TjGJ7I1
+04 2 4 work TB fast 0
+=1-40a3cc8bba0a-6666ae77-31f-ae4
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1717937814
+VH09O`izhFOk8:HQ3knUd`3
+04 11 4 work Datapath_tb fast 0
+=1-40a3cc8bba0a-6665a696-25a-3e28
+R1
+R2
+n@_opt2
+R3
+R0
+vController
+Z4 !s110 1718005364
+!i10b 1
+!s100 mcEEA0R:[^TYV4KghQRaF1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IaM;cm3S`>?DF53X<JaN:Z1
+Z6 dC:/Users/Asus/Desktop/CA
+w1717939200
+8C:\Users\Asus\Desktop\CA\Controller.v
+FC:\Users\Asus\Desktop\CA\Controller.v
+!i122 221
+L0 1 68
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1718005364.000000
+!s107 C:\Users\Asus\Desktop\CA\Controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Asus\Desktop\CA\Controller.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@controller
+vDatapath
+R4
+!i10b 1
+!s100 =O1RPbVB8l[loSZAn@m233
+R5
+InQga0AmVBk<ZZE:I6H?9Q0
+R6
+w1717894319
+8C:\Users\Asus\Desktop\CA\Datapath.v
+FC:\Users\Asus\Desktop\CA\Datapath.v
+!i122 220
+L0 1 49
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\Asus\Desktop\CA\Datapath.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Asus\Desktop\CA\Datapath.v|
+!i113 0
+R10
+R2
+n@datapath
+vDatapath_tb
+!s110 1717939501
+!i10b 1
+!s100 <GnLM0;cXY]c3Dzla_nS_0
+R5
+IVKMYcISU1I3KUVLjNOGn21
+R6
+w1717939490
+Z11 8C:\Users\Asus\Desktop\CA\Testbench.v
+Z12 FC:\Users\Asus\Desktop\CA\Testbench.v
+!i122 198
+L0 55 96
+R7
+R8
+r1
+!s85 0
+31
+!s108 1717939501.000000
+Z13 !s107 C:\Users\Asus\Desktop\CA\Testbench.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Asus\Desktop\CA\Testbench.v|
+!i113 0
+R10
+R2
+n@datapath_tb
+vhard_block
+Z15 !s110 1718005365
+!i10b 1
+!s100 A[V2UFRiERg]Oa<Te0m^T1
+R5
+I5khaJ;0F21^z_Bo0BZnEA3
+R6
+Z16 w1717939383
+Z17 8C:/Users/Asus/Desktop/CA/New folder/simulation/modelsim/ca5.vo
+Z18 FC:/Users/Asus/Desktop/CA/New folder/simulation/modelsim/ca5.vo
+!i122 225
+L0 1306 34
+R7
+R8
+r1
+!s85 0
+31
+Z19 !s108 1718005365.000000
+Z20 !s107 C:/Users/Asus/Desktop/CA/New folder/simulation/modelsim/ca5.vo|
+Z21 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Asus/Desktop/CA/New folder/simulation/modelsim/ca5.vo|
+!i113 0
+R10
+R2
+vload_register
+R15
+!i10b 1
+!s100 0>dBVUR4Da94RJ?Q38ldR1
+R5
+I>C>nNd7O?_M^iMBlJb;A_3
+R6
+Z22 w1717889609
+Z23 8C:\Users\Asus\Desktop\CA\Requirements.v
+Z24 FC:\Users\Asus\Desktop\CA\Requirements.v
+!i122 224
+L0 1 13
+R7
+R8
+r1
+!s85 0
+31
+R9
+Z25 !s107 C:\Users\Asus\Desktop\CA\Requirements.v|
+Z26 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Asus\Desktop\CA\Requirements.v|
+!i113 0
+R10
+R2
+vshift_registerp
+R15
+!i10b 1
+!s100 =ed^1fhK>NQlhFh5]=jRe1
+R5
+IMXela7OOa0zfLEAToHM=63
+R6
+R22
+R23
+R24
+!i122 224
+L0 15 15
+R7
+R8
+r1
+!s85 0
+31
+R9
+R25
+R26
+!i113 0
+R10
+R2
+vTB
+R4
+!i10b 1
+!s100 aBKceT57z2cB8>RcShM1D0
+R5
+I_[IM^8cRCYT2:o@hDdDS21
+R6
+w1718005350
+R11
+R12
+!i122 222
+L0 3 51
+R7
+R8
+r1
+!s85 0
+31
+R9
+R13
+R14
+!i113 0
+R10
+R2
+n@t@b
+vTop_Module
+R15
+!i10b 1
+!s100 4KE[M@WYZ7j>5:EW_8AIR2
+R5
+I:UFnZo2kjUP_Jzm7HI=dd3
+R6
+R16
+R17
+R18
+!i122 225
+L0 32 1273
+R7
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R10
+R2
+n@top_@module
+vTop_Module_sim
+R4
+!i10b 1
+!s100 1]?JRaaHSP28524TeKXkl0
+R5
+ICIb4b=emHZ[BCcNP]KXb]3
+R6
+w1717939406
+8C:\Users\Asus\Desktop\CA\Top Module.v
+FC:\Users\Asus\Desktop\CA\Top Module.v
+!i122 223
+L0 1 25
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\Asus\Desktop\CA\Top Module.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Asus\Desktop\CA\Top Module.v|
+!i113 0
+R10
+R2
+n@top_@module_sim
